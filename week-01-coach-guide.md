@@ -6,6 +6,11 @@
 
 入口：[Lesson 01](lessons/lesson-01-observe-high-end.md)
 
+先看案例：
+
+- [案例 01：黑白深空首页](showcase/case-01-monochrome-space-hero.md)
+- [Lesson 01 标准作业示范](examples/lesson-01-sample-submission.md)
+
 你要交：
 
 - 3 张标注截图
@@ -60,6 +65,10 @@
 
 入口：[Lesson 04](lessons/lesson-04-space-background.md)
 
+先看案例：
+
+- [Lesson 04 背景选择示范](examples/lesson-04-background-selection-sample.md)
+
 你要交：
 
 - 3 个视频候选链接
@@ -90,6 +99,11 @@
 ## Day 06：黑白宇宙静态首屏
 
 入口：[Lesson 06](lessons/lesson-06-static-hero.md)
+
+先看案例：
+
+- [案例 01：黑白深空首页](showcase/case-01-monochrome-space-hero.md)
+- [Lesson 06 首屏评审示范](examples/lesson-06-hero-review-sample.md)
 
 你要交：
 

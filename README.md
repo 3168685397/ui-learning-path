@@ -33,6 +33,8 @@
 - [课程系统说明](learning-system.md)
 - [30 天课程地图](roadmap-30-days.md)
 - [学习进度表](progress.md)
+- [案例展示](showcase/README.md)
+- [标准作业示范](examples/README.md)
 - [反馈协议](feedback/feedback-rules.md)
 - [作业提交模板](feedback/submission-template.md)
 - [素材清单](assets/README.md)
@@ -49,6 +51,14 @@
 6. [Lesson 06：完成黑白宇宙首屏静态稿](lessons/lesson-06-static-hero.md)
 
 完成 Lesson 06 后，再进入动效和 WordPress 发布。
+
+## 学一课之前先看什么
+
+每节课开始前，按这个顺序看：
+
+1. 先看 `showcase/`：理解目标风格。
+2. 再看 `examples/`：知道作业做到什么程度算合格。
+3. 最后做 `lessons/`：提交自己的版本。
 
 ## 你需要准备什么
 
