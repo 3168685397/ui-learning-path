@@ -1,66 +1,72 @@
-# 网页 UI 学习路径
+# UI Quest：像多邻国一样学习网页 UI
 
-这是一个像多邻国一样设计的网页 UI 学习路线：每天完成一个很小的任务，获得 XP，保持连续学习，最后做出一个「高级黑白宇宙动态个人主页」。
+这不是一份普通学习路线，而是一套「关卡制」网页 UI 训练系统。你每天只做一个很小的任务，提交一个明确成果，然后用评分表获得反馈、重做或进入下一关。
 
-## 当前目标
+最终目标：
 
-先不急着学一大堆工具。第一阶段只做一件事：
+> 做出一个高级黑白、宇宙背景、电影感动态个人主页。
 
-> 做出一个黑白电影感、宇宙背景、带动态视觉效果的个人主页首屏。
+## 你每天怎么学
 
-## 怎么学
+每一课都按同一个节奏走：
 
-每天一关，每关 10 到 25 分钟。每关都有：
+1. 读目标：今天只学一个技能点。
+2. 做任务：按步骤产出一个小作品或分析结果。
+3. 自评分：用 rubric 给自己打分。
+4. 提交反馈：把截图/链接/文字贴给 Codex。
+5. 修正：只改 1 到 2 个最重要的问题。
+6. 通关：达到通关线后进入下一课。
 
-- 目标
-- 输入素材
-- 操作步骤
-- 提交成果
-- XP 分数
-- 自评标准
+## 通关规则
 
-每 5 到 7 天有一个 Boss 关，把前面的小技能合成一个可见作品。
+| 项目 | 规则 |
+|---|---|
+| 每课满分 | 100 |
+| 通关线 | 70 |
+| 优秀线 | 85 |
+| 每天建议时间 | 15 到 30 分钟 |
+| 每天必须交付 | 1 张截图、1 段分析或 1 个页面链接 |
+| 反馈方式 | 你提交成果，我按 rubric 给分并告诉你下一步 |
 
-## XP 规则
+## 目录
 
-| 行为 | XP |
-|---|---:|
-| 完成每日关卡 | 10 |
-| 上传一张练习截图 | 5 |
-| 写 3 句复盘 | 5 |
-| 完成 Boss 关 | 30 |
-| 连续 3 天学习 | 15 |
-| 连续 7 天学习 | 40 |
+- [课程系统说明](learning-system.md)
+- [30 天课程地图](roadmap-30-days.md)
+- [学习进度表](progress.md)
+- [反馈协议](feedback/feedback-rules.md)
+- [作业提交模板](feedback/submission-template.md)
+- [素材清单](assets/README.md)
 
-## 学习单元
+## 第一阶段课程
 
-1. [视觉感知](units/unit-01-visual-taste.md)
-2. [黑白高级风格](units/unit-02-black-white-cinema.md)
-3. [Figma 基础](units/unit-03-figma-basics.md)
-4. [网页首页布局](units/unit-04-homepage-layout.md)
-5. [动态视觉效果](units/unit-05-motion-visuals.md)
-6. [WordPress 发布](units/unit-06-wordpress-publish.md)
+先完成这 6 课，不要跳：
 
-## 推荐顺序
+1. [Lesson 01：看懂高级黑白页面](lessons/lesson-01-observe-high-end.md)
+2. [Lesson 02：拆解一个 Hero 首屏](lessons/lesson-02-hero-anatomy.md)
+3. [Lesson 03：建立黑白视觉板](lessons/lesson-03-monochrome-moodboard.md)
+4. [Lesson 04：选择宇宙背景素材](lessons/lesson-04-space-background.md)
+5. [Lesson 05：画出首页线框图](lessons/lesson-05-wireframe.md)
+6. [Lesson 06：完成黑白宇宙首屏静态稿](lessons/lesson-06-static-hero.md)
 
-先打开：
+完成 Lesson 06 后，再进入动效和 WordPress 发布。
 
-1. [30 天学习地图](roadmap-30-days.md)
-2. [进度表](progress.md)
-3. [第 1 天任务](challenges/day-01-observe.md)
+## 你需要准备什么
 
-## 最终作品标准
+第一周只需要：
 
-你的第一个完整作品应该具备：
+- 浏览器
+- GitHub 仓库
+- 能截图
+- 3 个你喜欢的黑白网页/海报参考
+- 1 到 3 个宇宙背景视频候选
 
-- 黑白电影感主视觉
-- 宇宙或深空视频背景
-- 大标题和短说明
-- 胶片颗粒或噪点层
-- 作品卡片区域
-- 手机端能正常浏览
-- 能发布到 WordPress 首页
+暂时不需要：
 
-## 注意
+- 会写代码
+- 会 Figma 高级功能
+- 会 WordPress 插件
+- 会动效库
+
+## 重要提醒
 
 不要把服务器密码、WordPress 密码、QQ 邮箱授权码、API Key 放进这个仓库。

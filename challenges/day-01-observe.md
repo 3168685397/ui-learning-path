@@ -1,39 +1,14 @@
-# Day 01：观察黑白高级感
+# Day 01 快速入口
 
-## 目标
+今日任务已经升级为完整课程：
 
-今天不做网页，只训练眼睛。
+[Lesson 01：看懂高级黑白页面](../lessons/lesson-01-observe-high-end.md)
 
-## 任务
+通关线：70 分。
 
-找 3 张你喜欢的黑白网页、海报、电影截图或产品页截图。
+必交成果：
 
-推荐搜索词：
+- 3 张标注截图
+- 1 个 `day-01-notes.md`
 
-```text
-black white portfolio website
-monochrome web design
-cinematic black white landing page
-black white space website
-```
-
-## 提交成果
-
-在 `progress.md` 里写下：
-
-1. 截图来源或文件名
-2. 你喜欢它的 3 个原因
-3. 它用了哪些黑白层级
-
-## XP
-
-- 完成截图收集：10 XP
-- 写 3 句分析：5 XP
-- 连续打卡：额外 5 XP
-
-## 自评
-
-- 我是否能说清楚它为什么高级？
-- 我是否看到了留白？
-- 我是否看到了对比？
-- 我是否看到了标题层级？
+提交后，把截图或文字发给 Codex，按 [反馈协议](../feedback/feedback-rules.md) 获取评分和重练任务。
